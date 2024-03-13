@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrl: './add-character.component.css'
 })
 export class AddCharacterComponent {
+  addCharacter(): void{
 
+  }
 }
